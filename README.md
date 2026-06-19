@@ -46,13 +46,9 @@ the ML pipeline testable and reusable outside of Streamlit (notebooks, scripts, 
 ## 🚀 Setup
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/automl-lite.git
-cd automl-lite
+# 1. Download the files and set them according to the project structure
 
-# 2. Create and activate a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+# 2. Open the files in VS Code Start Terminal and Type the commands in following steps.
 
 # 3. Install dependencies
 pip install -r requirements.txt
