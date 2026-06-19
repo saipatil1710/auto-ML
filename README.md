@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.30%2B-FF4B4B)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 
 A Streamlit app that turns any tabular dataset (CSV or Excel) into a trained, compared,
 and exportable machine learning model — no code required from the end user.
@@ -97,6 +97,3 @@ predictions = pipeline.predict(new_data)
 
 Streamlit · scikit-learn · pandas · plotly · XGBoost · joblib · openpyxl
 
-## 📄 License
-
-MIT — feel free to fork, modify, and use for your own portfolio or projects.
